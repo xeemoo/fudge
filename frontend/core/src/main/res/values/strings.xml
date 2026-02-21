@@ -1,0 +1,21 @@
+<resources>
+  <string name="download_notification_channel_name">Photo downloads</string>
+  <string name="download_notification_channel_description">Shows progress for ongoing photo transfers</string>
+  <string name="download_notification_title">Downloading photos</string>
+  <string name="download_notification_text_default">Downloading...</string>
+  <string name="download_notification_text_with_index">Downloading item %1$d...</string>
+  <string name="error_wifi_disconnected">Connection disconnected. Reconnect the camera.</string>
+  <string name="error_wifi_timeout">Connection timed out. Verify camera WLAN status and retry.</string>
+  <string name="error_wifi_unknown">Connection error. Please retry.</string>
+  <string name="error_sdk_timeout">Communication with the camera timed out. Please retry.</string>
+  <string name="error_sdk_general">Camera communication failed. Please retry.</string>
+  <string name="error_storage_no_space">Not enough storage to save photos. Free up space and retry.</string>
+  <string name="error_storage_no_permission">Insufficient storage permission to save photos. Grant permission and retry.</string>
+  <string name="error_storage_unknown">Storage error. Please retry.</string>
+  <string name="error_operation_unknown">Operation failed. Please retry.</string>
+  <string name="error_download_wifi_disconnected">Connection disconnected. Reconnect on the Connect page and retry.</string>
+  <string name="error_download_sdk">Camera communication failed. Verify camera connection and retry.</string>
+  <string name="error_download_storage_full">Not enough storage to save photos. Free up space and retry.</string>
+  <string name="error_download_timeout">Download timed out. Please retry.</string>
+  <string name="error_download_unknown">Download failed. Please retry.</string>
+</resources>
